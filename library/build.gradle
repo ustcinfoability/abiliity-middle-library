@@ -19,4 +19,5 @@ android {
 
 dependencies {
     api 'com.github.android-suppoort:appcompat-v14:26.2.2'
+    api 'com.tencent.bugly:crashreport:latest.release'
 }
