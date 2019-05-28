@@ -17,10 +17,6 @@ android {
     }
     buildToolsVersion '27.0.3'
 }
-apply plugin: 'replugin-host-gradle'
-repluginHostConfig {
-    useAppCompat = true
-}
 
 dependencies {
     implementation 'com.android.support:appcompat-v7:26.1.0'
