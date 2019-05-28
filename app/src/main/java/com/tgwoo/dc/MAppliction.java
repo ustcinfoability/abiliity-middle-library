@@ -1,8 +1,8 @@
 package com.tgwoo.dc;
 
 
-import com.qihoo360.replugin.RePluginApplication;
+import android.app.Application;
 
-public class MAppliction extends RePluginApplication {
+public class MAppliction extends Application {
 
     }
