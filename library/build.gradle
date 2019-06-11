@@ -18,6 +18,6 @@ android {
 }
 
 dependencies {
-    api 'com.github.android-suppoort:appcompat-v12:latest.integration'
+    api 'com.github.android-suppoort:appcompat-v12:28.2.7'
     api 'com.tencent.bugly:crashreport:latest.release'
 }
